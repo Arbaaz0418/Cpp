@@ -55,3 +55,50 @@ int main()
  
  return 0;
 }
+
+Output:
+Enter the number of employees you want to store : 3
+
+ Enter information of Employee 1
+
+ Name : Om 
+
+ Id : 1
+
+ Salary : 100000
+
+ Enter information of Employee 2
+
+ Name : Yash 
+
+ Id : 2
+
+ Salary : 90000
+
+ Enter information of Employee 3
+
+ Name : Raj
+
+ Id : 3
+
+ Salary : 80000
+
+ Information of Employees is as follows : 
+
+Employee 1
+
+ Name : Om
+ Id : 1
+ Salary : 100000
+
+Employee 2
+
+ Name : Yash
+ Id : 2
+ Salary : 90000
+
+Employee 3
+
+ Name : Raj
+ Id : 3
+ Salary : 80000
